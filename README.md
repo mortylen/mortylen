@@ -5,7 +5,7 @@
 - **C#**, **VB**
   > *Entity Framework*, *ADO.Net*, *WPF*, *LINQ*, etc.
 - **ASP.Net**
-  > *MVC*, *Razor*, etc.
+  > *MVC*, *Razor*, *Identity*, etc.
 - **Rust**
   > *Serde*, *Tokio*, *Toml*, *Actix-Web*, etc.
 - **Python**
