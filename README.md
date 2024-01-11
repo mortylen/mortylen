@@ -3,7 +3,7 @@
 ## Skills 📚
 ### Programming Languages
 - **C#**, **VB**
-  > *Entity Framework*, *ADO.Net*, etc.
+  > *Entity Framework*, *ADO.Net*, *WPF*, *LINQ*, etc.
 - **ASP.Net**
   > *MVC*, *Razor*, etc.
 - **Rust**
