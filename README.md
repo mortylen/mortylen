@@ -12,8 +12,8 @@
   > *Pandas*, *TensorFlow*, etc.
 - **JavaScript**
 
-### Additional Knowledge
-- **Databases***
+### Additional Knowledges
+- **Databases**
   > *MS SQL*, *SQL Service Broker*, *SQL Replication*, Basic of *PostgreSQL*, Analizing Data, EDA, etc.
 - **AI**
   > *OpenAI API*, *TensorFlow*, *ML.NET Model Builder*, etc.
