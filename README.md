@@ -1,5 +1,17 @@
 ### Hi there 👋
+### Skills 📚
+## Languages
+- **C#**
+  > Entity Framework*
+- **Rust**
+  > *Serde*, *Tokio*, *Toml*, *Actix-Web*...
+- **Python**
+  > *Pandas*, *TensorFlow*...
+- **JavaScript**
 
+---
+In Progress 😄
+---
 <!--
 **mortylen/mortylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
