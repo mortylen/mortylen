@@ -1,13 +1,29 @@
 ### Hi there 👋
-### Skills 📚
-## Languages
-- **C#**
-  > Entity Framework*
+## About me 👀
+## Skills 📚
+### Programming Languages
+- **C#**, **VB**
+  > *Entity Framework*, *ADO.Net*, etc.
+- **ASP.Net**
+  > *MVC*, *Razor*, etc.
 - **Rust**
-  > *Serde*, *Tokio*, *Toml*, *Actix-Web*...
+  > *Serde*, *Tokio*, *Toml*, *Actix-Web*, etc.
 - **Python**
-  > *Pandas*, *TensorFlow*...
+  > *Pandas*, *TensorFlow*, etc.
 - **JavaScript**
+
+### Additional Knowledge
+- **Databases***
+  > *MS SQL*, *SQL Service Broker*, *SQL Replication*, Basic of *PostgreSQL*, Analizing Data, EDA, etc.
+- **AI**
+  > *OpenAI API*, *TensorFlow*, *ML.NET Model Builder*, etc.
+- **Web application**
+  > *REST API*, *JavaScript*, *HTML*, *MVC Pattern*, etc.
+- **Network Protocol**
+  > *SNMP*, *MQTT*, etc.
+
+## Courses 🏫
+
 
 ---
 In Progress 😄
