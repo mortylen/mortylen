@@ -1,9 +1,11 @@
 ### Hi there 👋
+___
 **[FEW OF MY ARTICLES](https://mortylen.hashnode.dev/)**
 **|**
 **[BLOG SITE](https://dev.to/mortylen)**
 **|**
 **[CONTACT](https://mortylen.hashnode.dev/contact)**
+___
 ## About me 👀
 I have many years of experience in the field of IT. Currently, I am employed as a software developer, where I specialize in developing applications for industries, and internal company applications and systems. On this profile I would like to present some of my free-time applications that I am developing in order to learn something new and to entertain you 😄
 ## Skills 📚
