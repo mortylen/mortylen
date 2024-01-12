@@ -30,32 +30,32 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 
 ## Training and courses 🏫
 - **2004**
- - Java Programming Language and Basic Libraries
+  - Java Programming Language and Basic Libraries
 - **2007**
- - Basics of LAN, DNS and Programming in HTML, PHP, MySQL
+  - Basics of LAN, DNS and Programming in HTML, PHP, MySQL
 - **2014**
- - Introduction to MS Visual Basic .NET Programming
- - Core Data Access with Microsoft Visual Studio ADO.NET
+  - Introduction to MS Visual Basic .NET Programming
+  - Core Data Access with Microsoft Visual Studio ADO.NET
 - **2016**
- - T-SQL Creating Queries in MS SQL Server
+  - T-SQL Creating Queries in MS SQL Server
 - **2017**
- - Programming Client Scripts with JavaScript
+  - Programming Client Scripts with JavaScript
 - **2018**
- - Entity Framework
- - Web Application Development ASP.NET MVC
- - Architecture of Web Applications ASP.NET MVC
+  - Entity Framework
+  - Web Application Development ASP.NET MVC
+  - Architecture of Web Applications ASP.NET MVC
 - **2019**
- - Penetration Testing and Ethical Hacking
- - WebHacking: Web Application Vulnerabilities
- - Web Applications Security Testing
+  - Penetration Testing and Ethical Hacking
+  - WebHacking: Web Application Vulnerabilities
+  - Web Applications Security Testing
 - **2020**
- - Windows Server: Managing IIS
- - Security in ASP.NET Applications
+  - Windows Server: Managing IIS
+  - Security in ASP.NET Applications
 - **2023**
- - C#
- - Intro to OpenAI API
+  - C#
+  - Intro to OpenAI API
 - **2024**
- - Machine Learning and AI Fundamentals
+  - Machine Learning and AI Fundamentals
 
 
 <!--
