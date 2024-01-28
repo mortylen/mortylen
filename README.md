@@ -58,6 +58,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Intro to OpenAI API
 - **2024**
   - Machine Learning and AI Fundamentals
+  - Python 3
 
 
 <!--
