@@ -1,6 +1,6 @@
 ### Hi there 👋
 ___
-**[FEW OF MY ARTICLES](https://mortylen.hashnode.dev/)**
+**[MY ARTICLES](https://mortylen.hashnode.dev/)**
 **|**
 **[BLOG SITE](https://dev.to/mortylen)**
 **|**
@@ -60,6 +60,15 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Machine Learning and AI Fundamentals
   - Python 3
 
+## Contact
+- **E-mail** 📧
+  - [mortileninfo@gmx.com](mortileninfo@gmx.com)
+- **Blog** 📖
+  - [Hashnode.com](https://mortylen.hashnode.dev/)
+  - [Dev.to](https://dev.to/mortylen/)
+- **GitHub**
+  - You've found it 😄
+ 
 
 <!--
 **mortylen/mortylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
