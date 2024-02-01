@@ -63,7 +63,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 ## Contact
 I'm looking forward to hearing from you! I'll do my best to respond as soon as possible.
 - **E-mail** 📧
-  - [mortileninfo@gmx.com](mortileninfo@gmx.com)
+  - [mortyleninfo@gmx.com](mortyleninfo@gmx.com)
 - **Blog** 📖
   - [Hashnode.com](https://mortylen.hashnode.dev/)
   - [Dev.to](https://dev.to/mortylen/)
