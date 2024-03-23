@@ -13,7 +13,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 - **C#**, **VB**
   > *Entity Framework*, *ADO.Net*, *WPF*, *LINQ*, etc.
 - **ASP.Net**
-  > *MVC*, *Razor*, *Identity*, etc.
+  > *MVC*, *Razor*, *Identity*, *Bootstrap*, etc.
 - **Rust**
   > *Serde*, *Tokio*, *Toml*, *Actix-Web*, etc.
 - **Python**
@@ -59,6 +59,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 - **2024**
   - Machine Learning and AI Fundamentals
   - Python 3
+  - ASP.NET Core
 
 ## Contact
 I'm looking forward to hearing from you! I'll do my best to respond as soon as possible.
