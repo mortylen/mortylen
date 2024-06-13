@@ -61,6 +61,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Python 3
   - ASP.NET Core
   - Software Architecture
+  - Design Databases with PostgreSQL
 
 ## Contact
 I'm looking forward to hearing from you! I'll do my best to respond as soon as possible.
