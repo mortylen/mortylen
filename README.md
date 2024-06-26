@@ -31,6 +31,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   > *SNMP*, *MQTT*, etc.
 
 ## Training and courses 🏫
+*We live in such a fast-changing world that continuous learning is necessary.*
 - **2004**
   - Java Programming Language and Basic Libraries
 - **2007**
