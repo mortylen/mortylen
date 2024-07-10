@@ -7,6 +7,7 @@ ___
 **[CONTACT](https://mortylen.hashnode.dev/contact)**
 ___
 ## About me 👀
+Hello! I'm Mortylen, a passionate programmer and IT developer with a love for discovering new technologies and continuous learning.
 I have many years of experience in the field of IT. Currently, I am employed as a software developer, where I specialize in developing applications for industries, and internal company applications and systems. On this profile I would like to present some of my free-time applications that I am developing in order to learn something new and to entertain you 😄
 ## Skills 📚
 ### Programming Languages
@@ -64,8 +65,8 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Software Architecture
   - Design Databases with PostgreSQL
 
-## Contact
-I'm looking forward to hearing from you! I'll do my best to respond as soon as possible.
+## Contact 📬
+If you have any questions, inquiries, or just want to say hello, feel free to reach out to me using the following contact information:
 - **E-mail** 📧
   - [mortyleninfo@gmx.com](mortyleninfo@gmx.com)
 - **Blog** 📖
@@ -74,18 +75,5 @@ I'm looking forward to hearing from you! I'll do my best to respond as soon as p
 - **GitHub**
   - You've found it 😄
  
+👉 *Your feedback and inquiries are welcome; don't be shy to get in touch!* 👀
 
-<!--
-**mortylen/mortylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
