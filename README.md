@@ -1,10 +1,10 @@
 ### Hi there 👋
 ___
-**[MY ARTICLES](https://mortylen.hashnode.dev/)**
+**⭐[MY ARTICLES](https://mortylen.hashnode.dev/)**
 **|**
-**[BLOG SITE](https://dev.to/mortylen)**
+**🌐[BLOG SITE](https://dev.to/mortylen)**
 **|**
-**[CONTACT](https://mortylen.hashnode.dev/contact)**
+**📬[CONTACT](https://mortylen.hashnode.dev/contact)**
 ___
 ## About me 👀
 Hello! I'm Mortylen, a passionate programmer and IT developer with a love for discovering new technologies and continuous learning.
