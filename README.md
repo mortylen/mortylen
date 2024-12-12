@@ -64,6 +64,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - ASP.NET Core
   - Software Architecture
   - Design Databases with PostgreSQL
+  - AI Engineering
 
 ## Contact 📬
 If you have any questions, inquiries, or just want to say hello, feel free to reach out to me using the following contact information:
