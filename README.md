@@ -70,6 +70,8 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 If you have any questions, inquiries, or just want to say hello, feel free to reach out to me using the following contact information:
 - **E-mail** 📧
   - [mortyleninfo@gmx.com](mortyleninfo@gmx.com)
+- **LinkedIn** ![Linkedin](https://i.sstatic.net/gVE0j.png)
+  - [LinkedIn]([mortyleninfo@gmx.com](https://www.linkedin.com/in/mortylen-dev-76604b36b/))
 - **Blog** 📖
   - [Hashnode.com](https://mortylen.hashnode.dev/)
   - [Dev.to](https://dev.to/mortylen/)
