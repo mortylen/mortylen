@@ -1,14 +1,20 @@
 ### Hi there 👋
+
 ___
 **⭐[MY ARTICLES](https://mortylen.hashnode.dev/)**
 **|**
 **🌐[BLOG SITE](https://dev.to/mortylen)**
 **|**
 **📬[CONTACT](https://mortylen.hashnode.dev/contact)**
+**|**
+**☕[SUPPORT MY WORK](https://buymeacoffee.com/mortylen)**
 ___
 ## About me 👀
 Hello! I'm Mortylen, a passionate programmer and IT developer with a love for discovering new technologies and continuous learning.
 I have many years of experience in the field of IT. Currently, I am employed as a software developer, where I specialize in developing applications for industries, and internal company applications and systems. On this profile I would like to present some of my free-time applications that I am developing in order to learn something new and to entertain you 😄
+
+💡 *All of my work is completely free – but if you find it helpful, you can support it below.*
+
 ## Skills 📚
 ### Programming Languages
 - **C#**, **VB**
@@ -65,6 +71,16 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Software Architecture
   - Design Databases with PostgreSQL
   - AI Engineering
+
+## Support My Work ☕💙
+
+I create all of my articles and tools in my free time and cover the cost of my learning (courses, GitHub Copilot, APIs, etc.) myself.  
+
+My projects run on coffee. Help me keep the system online:
+
+👉 [Buy Me a Coffee](https://buymeacoffee.com/mortylen)  
+or  
+💬 reach out for short consulting.
 
 ## Contact 📬
 If you have any questions, inquiries, or just want to say hello, feel free to reach out to me using the following contact information:
