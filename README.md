@@ -86,8 +86,8 @@ or
 If you have any questions, inquiries, or just want to say hello, feel free to reach out to me using the following contact information:
 - **E-mail** 📧
   - [mortyleninfo@gmx.com](mortyleninfo@gmx.com)
-- **LinkedIn** ![Linkedin](https://i.sstatic.net/gVE0j.png)
-  - [LinkedIn](https://www.linkedin.com/in/mortylen-dev-76604b36b/)
+- **Social** 👋
+  - [techhub.social](https://techhub.social/@mortylen)
 - **Blog** 📖
   - [Hashnode.com](https://mortylen.hashnode.dev/)
   - [Dev.to](https://dev.to/mortylen/)
