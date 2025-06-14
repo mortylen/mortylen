@@ -87,7 +87,7 @@ If you have any questions, inquiries, or just want to say hello, feel free to re
 - **E-mail** 📧
   - [mortyleninfo@gmx.com](mortyleninfo@gmx.com)
 - **Social** 👋
-  - [techhub.social](https://techhub.social/@mortylen)
+  - [@mortylen@techhub.social](https://techhub.social/@mortylen) on Mastodon! Come follow me!
 - **Blog** 📖
   - [Hashnode.com](https://mortylen.hashnode.dev/)
   - [Dev.to](https://dev.to/mortylen/)
