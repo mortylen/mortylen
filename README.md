@@ -72,7 +72,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Design Databases with PostgreSQL
   - AI Engineering
 
-## Support My Work ☕💙
+## Support My Work ☕
 
 I create all of my articles and tools in my free time and cover the cost of my learning (courses, GitHub Copilot, APIs, etc.) myself.  
 
