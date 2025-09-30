@@ -71,6 +71,8 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - Software Architecture
   - Design Databases with PostgreSQL
   - AI Engineering
+- **2025**
+  - Rust
 
 ## Support My Work ☕
 
