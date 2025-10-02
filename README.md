@@ -73,6 +73,7 @@ I have many years of experience in the field of IT. Currently, I am employed as 
   - AI Engineering
 - **2025**
   - Rust
+  - UML: Modeling software systems
 
 ## Support My Work ☕
 
