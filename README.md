@@ -9,6 +9,19 @@ ___
 **|**
 **☕[SUPPORT MY WORK](https://buymeacoffee.com/mortylen)**
 ___
+
+## Web Sites Projects (Decision Guides)
+
+### ML Compass Guide
+Pick the right machine learning algorithm for your problem (task type, data size, interpretability, etc.).
+- Website: https://mlcompassguide.dev
+- Repo: https://github.com/mortylen/ml-compass-guide
+
+### Stack Compass Guide
+Pick the right technology stack / tools for your project (backend, frontend, DB, messaging, deployment, etc.).
+- Website: https://stackcompassguide.dev
+- Repo: https://github.com/mortylen/stack-compass-guide
+
 ## About me 👀
 Hello! I'm Mortylen, a passionate programmer and IT developer with a love for discovering new technologies and continuous learning.
 I have many years of experience in the field of IT. Currently, I am employed as a software developer, where I specialize in developing applications for industries, and internal company applications and systems. On this profile I would like to present some of my free-time applications that I am developing in order to learn something new and to entertain you 😄
