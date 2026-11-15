@@ -1,14 +1,8 @@
 # Hi there 👋
 
-___
-**⭐[MY ARTICLES](https://mortylen.hashnode.dev/)**
-**|**
-**🌐[BLOG SITE](https://dev.to/mortylen)**
-**|**
-**📬[CONTACT](https://mortylen.hashnode.dev/contact)**
-**|**
-**☕[SUPPORT MY WORK](https://buymeacoffee.com/mortylen)**
-___
+[AIContext](https://aicontext.dev/) · [Blog](https://mortylen.hashnode.dev/) · [DEV](https://dev.to/mortylen/) · [Mastodon](https://techhub.social/@mortylen) · [Support my work](https://buymeacoffee.com/mortylen)
+
+---
 
 ## Currently building: AIContext
 
