@@ -10,6 +10,16 @@ ___
 **☕[SUPPORT MY WORK](https://buymeacoffee.com/mortylen)**
 ___
 
+## Currently building: AIContext
+
+I'm building [AIContext](https://aicontext.dev/), an open-source format and CLI for maintaining shared AI coding instructions.
+
+Write the source once, generate files for supported tools, and use CI to detect stale exports. It manages instruction files, not agent behavior.
+
+I work on it in my spare time. It's MIT licensed and still early in development. Honest feedback is welcome, including reasons why it would not fit your workflow.
+
+**[Try the demo](https://github.com/aicontext-dev/aicontext/blob/main/demos/01-basics/README.md)** · [Source code](https://github.com/aicontext-dev/aicontext) · [Share your experience](https://github.com/aicontext-dev/aicontext/issues/31)
+
 ## Web Sites Projects (Decision Guides)
 
 ### ML Compass Guide
