@@ -91,6 +91,8 @@ I have many years of experience in the field of IT. Currently, I am employed as 
 - **2025**
   - Rust
   - UML: Modeling software systems
+- **2026**
+  - Docker: Fundamentals
 
 ## Support My Work ☕
 
